@@ -31,6 +31,7 @@ This leads us to the next test.
 # 2. Try multi-step checkout
 🕓 Effort: minutes
 📈 Impact: high
+
 If you're using Shopify - you've been blessed by this by default. 
 WooCommerce, Magento and a bunch of other super popular platform users aren't that lucky. 
 Here's how a default WooCommerce checkout looks like:
