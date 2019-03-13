@@ -8,7 +8,9 @@ const Layout = ({ children, title, description }) => (
       <html lang="en" />
       <title>{title}</title>
       <meta name="description" content={description} />
+      <script src="https://scripts.sirv.com/sirv.js"></script>
     </Helmet>
+    
     {children}
   </div>
 );
