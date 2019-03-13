@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://varyvoda.netlify.com',
+  title: 'Sensible Digital Marketing by Igor Varyvoda',
+  subtitle: 'Whatever',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -15,22 +15,22 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/about'
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/contact'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Igor Varyvoda',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Unstoppable Madlad',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'igor@varyvoda.com',
+      telegram: '@chestyle',
+      twitter: '@igorvaryvoda',
+      github: 'igorvaryvoda',
       rss: '#',
       vkontakte: '#'
     }
