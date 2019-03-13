@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: about
-draft: true
+draft: false
 ---
 Hello, my name is Igor and I do marketing, coding, occasional writing (looking at this website you can see that "occasional" is a huge exaggeration). 
 
