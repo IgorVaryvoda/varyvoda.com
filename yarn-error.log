@@ -2,7 +2,7 @@ Arguments:
   /usr/local/bin/node /usr/share/yarn/bin/yarn.js
 
 PATH: 
-  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/mnt/c/ProgramData/Oracle/Java/javapath:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files/nodejs:/mnt/c/Program Files (x86)/QuickTime/QTSystem:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Users/chegu/AppData/Roaming/npm:/mnt/c/Python27:/mnt/c/Python27/Scripts:/mnt/c/Users/chegu/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/Microsoft VS Code/bin:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files/PuTTY:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/chegu/AppData/Roaming/npm:/mnt/c/Python27:/mnt/c/Python27/Scripts:/mnt/c/Program Files/Microsoft VS Code/bin
 
 Yarn version: 
   1.0.1
@@ -67,7 +67,6 @@ npm manifest:
       "gatsby-plugin-offline": "^2.0.22",
       "gatsby-plugin-react-helmet": "^3.0.6",
       "gatsby-plugin-sass": "^2.0.10",
-      "gatsby-plugin-sharp": "^2.0.20",
       "gatsby-plugin-sitemap": "^2.0.5",
       "gatsby-remark-autolink-headers": "^2.0.14",
       "gatsby-remark-copy-linked-files": "^2.0.9",
@@ -79,7 +78,6 @@ npm manifest:
       "gatsby-remark-smartypants": "^2.0.8",
       "gatsby-source-filesystem": "^2.0.20",
       "gatsby-transformer-remark": "^2.2.4",
-      "gatsby-transformer-sharp": "^2.1.13",
       "invariant": "^2.2.4",
       "katex": "^0.10.0",
       "lodash": "^4.17.11",
@@ -15964,4 +15962,4 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.3.tgz#159fae4b3f737db1e42bf321d3423e4c96688a18"
 
 Trace: 
-  Error: ENOENT: no such file or directory, lstat '/home/igor/.cache/yarn/v1/npm-shebang-command-1.2.0-44aac65b695b03398968c39f363fee5deafdf1ea/license'
+  Error: ENOENT: no such file or directory, lstat '/home/igor/.cache/yarn/v1/npm-which-pm-runs-1.0.0-670b3afbc552e0b55df6b7780ca74615f23ad1cb/LICENSE'
