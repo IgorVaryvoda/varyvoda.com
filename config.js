@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://varyvoda.netlify.com',
   title: 'Sensible Digital Marketing by Igor Varyvoda',
-  subtitle: 'Whatever',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: 'igorvaryvoda',
   postsPerPage: 4,
@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'Igor Varyvoda',
     photo: '/photo.jpg',
-    bio: 'Unstoppable Madlad',
+    bio: 'Digital Strategist at Sirv',
     contacts: {
       email: 'igor@varyvoda.com',
       telegram: '@chestyle',
