@@ -32,7 +32,7 @@ module.exports = {
     bio: 'Digital Strategist at Sirv',
     contacts: {
       email: 'igor@varyvoda.com',
-      telegram: '@chestyle',
+      telegram: 'chestyle',
       twitter: '@igorvaryvoda',
       github: 'igorvaryvoda',
       rss: '#',
