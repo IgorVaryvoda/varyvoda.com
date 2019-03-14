@@ -1,6 +1,6 @@
 ---
 template: post
-title: 7 quick A/B Test Ideas for Increasing Sales
+title: 7 quick A/B Test Ideas to Increase Sales
 slug: ecommerce-test-ideas
 draft: false
 date: 2019-03-13T21:10:09.267Z
