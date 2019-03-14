@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://varyvoda.netlify.com',
+  url: 'https://www.varyvoda..com',
   title: 'Sensible Digital Marketing by Igor Varyvoda',
   subtitle: '',
   copyright: '© All rights reserved.',
