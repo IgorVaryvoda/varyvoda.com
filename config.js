@@ -5,9 +5,9 @@ module.exports = {
   title: 'Sensible Digital Marketing by Igor Varyvoda',
   subtitle: 'Whatever',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'igorvaryvoda',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-33572265-1',
   menu: [
     {
       label: 'Articles',
@@ -16,6 +16,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/about'
+    },
+    {
+      label: 'Projects',
+      path: '/projects'
     },
     {
       label: 'Contact me',
