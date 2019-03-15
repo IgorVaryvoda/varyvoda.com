@@ -4,5 +4,7 @@ require('./src/assets/scss/init.scss');
 
 exports.onClientEntry = () => {};
 exports.onRouteUpdate = () => {
-Sirv.start();
-}
+  if (typeof Sirv !== 'undefined') {
+    Sirv.start();
+  }
+};
