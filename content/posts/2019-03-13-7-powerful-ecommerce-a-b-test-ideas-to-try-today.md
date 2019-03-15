@@ -71,9 +71,8 @@ Fear of missing out is something that is in our nature. Countdown timers help pu
 Not everybody can pull this off, but if you can - you definitely should test the impact of this.
 
 # 7. Try lifestyle product photography & Instagram feeds
-🕓 Effort: minutes
+🕓 Effort: depends
 📈 Impact: high
-
 
 ## Bonus: Increase website speed
 - **Make your store website fast.** Don't forget about product pages, it's highly likely that your visitors will land on those first.
