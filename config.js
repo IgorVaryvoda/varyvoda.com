@@ -22,7 +22,7 @@ module.exports = {
       path: '/projects'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/contact'
     }
   ],
