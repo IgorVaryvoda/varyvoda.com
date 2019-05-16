@@ -18,10 +18,8 @@ tags:
 
 This tip is almost universally acknowledged, and ignored just as much at the same time. 
 
-
 Remember the last time you were greeted with a huge-ass 16-field form? 
 How did that make you feel? 
-
 
 Exactly. Don't make your customers go through this challenge.
 
@@ -51,16 +49,17 @@ WooCommerce, Magento and a bunch of other super popular platform users aren't th
 🕓 Effort: days
 📈 Impact: high
 
+Just look at this beauty:
+
 <div class="Sirv" style="margin:0 auto;" data-src="https://demo.sirv.com/DiamondRing/DiamondRing.spin"></div>
 
-Just look at this beauty. 
+You are in full control. 
 
-You are in full control. You can examine every inch of the product.  
+You can examine every inch of the product.  
 
 Know what that means? 
 
-360 spins increase conversions by at least 27%. They Work best for apparel products, jewelry, tech products etc. 
-
+360 spins increase conversions by at least 27%. They work best for apparel products, jewelry, tech products etc. 
 
 This particular example is powered by <a href="https://sirv.com">Sirv</a> .
 Disclaimer: I work at Sirv.
@@ -69,14 +68,18 @@ Disclaimer: I work at Sirv.
 
 🕓 Effort: minutes
 
-Reviews are super important. 
+The importance of reviews has been [proven](https://www.shopify.com/blog/15359677-why-online-store-owners-should-embrace-online-reviews) long ago. 
+
+Test platforms like [Yotpo](https://www.yotpo.com/) to see where it gets you. 
 
 # 4. No Coupon Fields
 
 🕓 Effort: minutes
 📈 Impact: high
 
-A coupon field at checkout can actually backfire. People see it and try to find a discount code for your store, and people wandering off isn't really a good thing. Give it a try, the results might surprise you. 
+A coupon field at checkout can  backfire. People see it and try to find a discount code for your store, and people wandering off isn't really a good thing. 
+
+Give it a try, the results might surprise you. 
 
 # 5. Countdown timers
 
@@ -85,19 +88,22 @@ A coupon field at checkout can actually backfire. People see it and try to find 
 
 Fear of missing out is something that is in our nature. Countdown timers help push your customers into finishing their purchase. 
 
-# 6. Urgent Next Day Delivery
+Be careful with this, the return rate might increase (FOMO sometimes makes people feel guilty for acting on  their impulses). Try to take it into account while testing.
 
-🕓 Effort: minutes
-📈 Impact: high
 
-Not everybody can pull this off, but if you can - you definitely should test the impact of this.
 
-# 7. Try lifestyle product photography & Instagram feeds
+# 6. Try lifestyle product photography & Instagram feeds
 
-🕓 Effort: depends
-📈 Impact: high
+🕓 Effort: high
+📈 Impact: medium-high
 
-## Bonus: Increase website speed
+Can be a lot of hassle to pull off. Definitely look into this if your products are "Instagram" friendly. 
+
+
+
+## 7. Increase website speed
+
+This should not even be up for debate or a test. Most of the time it's possible to significantly increase website speed without sacrificing anything. 
 
 * **Make your store website fast.** Don't forget about product pages, it's highly likely that your visitors will land on those first.
 * Use [Sirv](https://sirv.com/?utm_source=varyvoda.com) to optimize and lazy-load images.
