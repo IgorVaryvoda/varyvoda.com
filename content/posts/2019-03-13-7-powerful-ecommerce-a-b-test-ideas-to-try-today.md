@@ -25,13 +25,13 @@ How did that make you feel?
 
 Exactly. Don't make your customers go through this challenge.
 
-### How to do this
+### How to implement?
 
-#### Shopify
+**Shopify**
 
 No additional apps required. Just configure this in [your settings](https://help.shopify.com/manual/sell-online/checkout-settings/checkout-form-options).
 
-#### WooCommerce
+**WooCommerce**
 
 [Booster for WooCommerce](https://booster.io/) is a Swiss army knife which can help you configure this properly.
 
@@ -53,9 +53,17 @@ WooCommerce, Magento and a bunch of other super popular platform users aren't th
 
 <div class="Sirv" style="margin:0 auto;" data-src="https://demo.sirv.com/DiamondRing/DiamondRing.spin"></div>
 
-Just look at this beauty. No static photo can fully represent the gorgeousness of this product. And you are in full control. Know what that means? Exactly, 360 spins are proven to increase conversions by at least 27%. Works best for apparel products, jewelry, tech products etc. 
-It's powered by <a href="https://sirv.com">Sirv</a> by the way.
-Order 360 photography for a small set of your products and run tests.
+Just look at this beauty. 
+
+You are in full control. You can examine every inch of the product.  
+
+Know what that means? 
+
+360 spins increase conversions by at least 27%. They Work best for apparel products, jewelry, tech products etc. 
+
+
+This particular example is powered by <a href="https://sirv.com">Sirv</a> .
+Disclaimer: I work at Sirv.
 
 # Make reviews more prominent
 
