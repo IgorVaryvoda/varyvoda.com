@@ -16,6 +16,12 @@ const Menu = ({ menu }) => (
           </Link>
         </li>
       ))}
+      <li>
+      <Link
+        to={'https://docs.google.com/forms/d/e/1FAIpQLSd62z2gG7dCch_WAadc9G3Zic1HyWhGzxyTLp3pUE8SxylhHA/viewform'}
+        className={styles['menu__list-item-link']}
+        >Contact</Link>
+      </li>
     </ul>
   </nav>
 );
