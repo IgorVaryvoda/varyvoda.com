@@ -16,8 +16,8 @@ const Menu = ({ menu }) => (
           </Link>
         </li>
       ))}
-      <li class="menu__list-item">
-      <a class="menu__list-item-link" href="https://docs.google.com/forms/d/e/1FAIpQLSd62z2gG7dCch_WAadc9G3Zic1HyWhGzxyTLp3pUE8SxylhHA/viewform">Contact</a>
+      <li class="Menu-module--menu__list-item--1lJ6B">
+      <a class="Menu-module--menu__list-item-link--10Ush" href="https://docs.google.com/forms/d/e/1FAIpQLSd62z2gG7dCch_WAadc9G3Zic1HyWhGzxyTLp3pUE8SxylhHA/viewform">Contact</a>
       </li>
     </ul>
   </nav>
