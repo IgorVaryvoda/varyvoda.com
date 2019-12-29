@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       label: 'Contact',
-      path: '/contact'
+      path: 'https://docs.google.com/forms/d/e/1FAIpQLSd62z2gG7dCch_WAadc9G3Zic1HyWhGzxyTLp3pUE8SxylhHA/viewform'
     }
   ],
   author: {
