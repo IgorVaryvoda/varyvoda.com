@@ -16,8 +16,3 @@ A random Travel Generator. Pretty Fun and sometimes useful :) [Visit Earth Roule
 
 Track crypto currency prices. [Visit CryptoTracker](https://cryptotracker.xyz)
 
-## MicroCap tools
-
-<a href="https://microcap.tools" target="_blank"><img class="Sirv" data-src="https://iantiark.sirv.com/varyvoda/micro.png"></a>
-
-A tool for doing your own research on crypto coins. Focused at low market cap coins. [Visit project](https://microcap.tools)
